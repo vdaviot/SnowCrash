@@ -1,0 +1,5 @@
+find /rofs -user flag00
+sh script00.sh cdiiddwpgswtgt
+the script give nottoohardhere as password
+su flag00
+done

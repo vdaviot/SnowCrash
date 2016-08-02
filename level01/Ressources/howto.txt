@@ -1,0 +1,4 @@
+solution dans /etc/passwd
+cp /etc/passwd passwd
+john --show passwd
+su level01 42hDRfypTqqnw > abcdefg

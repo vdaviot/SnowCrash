@@ -1,0 +1,5 @@
+Open level02.pcap with wireshark
+right click on any packet and press Follow TCP Flux
+inside the recap there is a line containing password: ft_wandr...NDRel.L0L
+dot are delete, so the key is ft_waNDReL0L
+su flag02

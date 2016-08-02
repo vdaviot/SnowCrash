@@ -1,0 +1,5 @@
+creer un dossier /tmp/troll
+chmod 777 de ce dossier
+getflag >> /tmp/troll dans /opt/openarenaserver
+lancer le /usr/sbin/openarenaserver
+

