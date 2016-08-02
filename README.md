@@ -1,2 +1,2 @@
 # SnowCrash
-Snowcrash security challenge
+Snowcrash, a little introduction to security
