@@ -1,2 +1,2 @@
 # SnowCrash
-Snowcrash, a little introduction to security
+a little introduction to security
