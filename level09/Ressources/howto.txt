@@ -1,0 +1,5 @@
+do a script to decrpyt the level09 output,
+python script.py `cat ~/token`
+gives f3iji1ju5yuevaus41q1afiuq
+su flag09 with it
+done
