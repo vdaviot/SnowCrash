@@ -1,0 +1,6 @@
+gdb getflag
+disass main
+break *main+74
+run
+jump *main+1183
+EZ
