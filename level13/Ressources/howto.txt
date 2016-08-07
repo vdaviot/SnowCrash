@@ -1,0 +1,6 @@
+ouvrir level13 avec gdb
+disass main,
+avec un peu de jugeote on voit un je a main+19
+break *main+19
+jump *main+63
+done
